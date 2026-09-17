@@ -1,1 +1,1 @@
-Hola soy un readme, estoy en la practica de git, estoy haciendo cambios para ver staged y changes status
+Hola soy un readme, estoy en la practica de git, estoy haciendo cambios para ver staged y changes status, estoy agregando más imformación para ver la ayuda con el mensaje del commit
