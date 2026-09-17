@@ -1,0 +1,1 @@
+Hola soy un readme, estoy en la practica de git, estoy haciendo cambios para ver staged y changes status
