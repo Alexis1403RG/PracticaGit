@@ -1,1 +1,1 @@
-Hola soy un readme, estoy en la practica de git, estoy haciendo cambios para ver staged y changes status, estoy agregando más imformación para ver la ayuda con el mensaje del commit, acabo de hacer un cambio en la rama develop
+Hola soy un readme, estoy en la practica de git, estoy haciendo cambios para ver staged y changes status, estoy agregando más imformación para ver la ayuda con el mensaje del commit, hici un cambio de nuevo, cambio para ver el funcionamiento del stash, cambio en rama
